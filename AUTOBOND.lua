@@ -164,6 +164,3 @@ watchForDeletion(ScreenGui)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hbjrev/mwir.github.io/refs/heads/main/er.lua"))()
 
 
-
-task.wait(2) -- Waits for 2 seconds before running the loadstring
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hbjrev/lagfix.github.io/refs/heads/main/ringta.lua"))()
